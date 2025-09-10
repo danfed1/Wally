@@ -62,4 +62,5 @@ Governing Law
 This policy is governed by the laws of the State of Israel, subject to any mandatory law. Exclusive jurisdiction—competent courts in Tel Aviv–Yafo, to the extent permitted.
 
 Contact  
-For privacy questions or requests, use Settings → Feedback in the app and we will respond promptly.
+For privacy questions, requests or request that their account and associated data be deleted, use Settings → Feedback in the app and we will respond promptly.
+
